@@ -28,5 +28,5 @@ git push origin feature-a
 ```
 
 # submit pull request
-go to https://github.com/CWMe/GitGud2/compare and setup a new pull request from your `feature-a` branch to `master`
+go to https://github.com/CWMe/GitGud2/compare and setup a new pull request from your `feature-a` branch to `master`. Make sure to specify that your branch is coming from a Forked repository
 
