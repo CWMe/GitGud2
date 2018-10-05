@@ -7,6 +7,11 @@ git clone YOUR_FORKED_REPO_URL_HERE
 cd GitGud2
 ```
 
+Or add the new remote
+```
+git remote add fork newgiturl
+```
+
 create a feature branch from master
 ```
 git checkout -b feature-a master
