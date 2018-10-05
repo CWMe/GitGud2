@@ -24,7 +24,7 @@ git commit -m "updated readme"
 
 # push feature branch
 ```
-git push origin feature-add
+git push origin feature-a
 ```
 
 # submit pull request
